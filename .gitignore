@@ -49,8 +49,11 @@ mobile/android/app/build/
 
 # Terraform
 infrastructure/.terraform/
+a2/infrastructure/.terraform/
 infrastructure/*.tfstate
 infrastructure/*.tfstate.*
+a2/infrastructure/*.tfstate
+a2/infrastructure/*.tfstate.*
 
 # Misc
 *.log
