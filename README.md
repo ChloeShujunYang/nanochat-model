@@ -1,6 +1,6 @@
 # Eye Hear U
 
-**Real-time ASL-to-English translation on iOS** — one sign at a time.
+**Real-time ASL-to-English translation on iOS** 
 
 Eye Hear U translates isolated American Sign Language (ASL) signs into English text and speech using a mobile app, a backend inference API, and a video classifier trained on public ASL datasets. This repository contains deliverables for CSC490 assignments A1, A2, and A3.
 
